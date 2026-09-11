@@ -1,0 +1,5 @@
+* El gráfico de las señales en el tiempo no muestran mucho. Deberías usar un rango de x de dos o tres períodos
+  de la misma, no más.
+* La transformada de Fourier también estaría bueno mostrarlas de otra manera, me gusta cómo está con el stem, 
+  pero por ahí usar una línea punteada desde el eje de las X, quedaría mejor.
+* Quedaría mejor para el informe, poner una sección aparte para la conclusión. 
