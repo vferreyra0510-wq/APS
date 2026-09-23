@@ -1,0 +1,21 @@
+Correcciones de las TSs:
+ 
+TS1. Análisis de Señales
+
+* El gráfico de las señales en el tiempo no muestran mucho. Deberías usar un rango de x de dos o tres períodos
+  de la misma, no más.
+* La transformada de Fourier también estaría bueno mostrarlas de otra manera, me gusta cómo está con el stem, 
+  pero por ahí usar una línea punteada desde el eje de las X, quedaría mejor.
+* Quedaría mejor para el informe, poner una sección aparte para la conclusión. 
+
+TS3. Desparramo Espectral
+
+* Estaría bueno que la introducción tenga un desarrollo con un poco más de detalles de la teoría que vas a usar
+  para encarar el tiempo
+
+* Los gráficos del espectro me gustan, porque muestran la característica discreta del espectro calculado. 
+  Lástima que en el primer espectro el eje vertical tiene una etiqueta que no corresponde: "Potencia". En 
+  realidad la potencia es la sumatoria de los valores a los largo de todo el dominio de la frecuencia (Parseval)
+
+* En la conclusión faltó el detalle de por qué con cero padding aparecen esos puntos que siguen la forma de una 
+  sinc. Me refiero al concepto de ventaneo en el tiempo y como convolución en frecuencia.  
