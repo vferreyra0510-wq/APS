@@ -19,3 +19,12 @@ TS3. Desparramo Espectral
 
 * En la conclusión faltó el detalle de por qué con cero padding aparecen esos puntos que siguen la forma de una 
   sinc. Me refiero al concepto de ventaneo en el tiempo y como convolución en frecuencia.  
+
+TS4. Estimadores
+
+* Buen trabajo en líneas generales
+* Los gráficos de espectro tienen en el eje vertical una etiqueta que no es correcta. No es Potencia es Densidad 
+  de Potencia.
+* Los gráficos del histograma tienen en el eje vertical una etiqueta que no es correcta. No es Cantidad de 
+  Realizaciones. Es Cuenta, conteo o n° de casos. Es una conteo de casos que caen entre un valor y otro valor.
+* A la conclusión le falta un poco más de desarrollo respecto de cómo afecta el ruido a las estimaciones. 
