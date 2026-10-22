@@ -28,3 +28,15 @@ TS4. Estimadores
 * Los gráficos del histograma tienen en el eje vertical una etiqueta que no es correcta. No es Cantidad de 
   Realizaciones. Es Cuenta, conteo o n° de casos. Es una conteo de casos que caen entre un valor y otro valor.
 * A la conclusión le falta un poco más de desarrollo respecto de cómo afecta el ruido a las estimaciones. 
+
+TS5. Estimación Espectral
+
+* Falta alguna justificación de por qué usás Welch y no las otras dos opciones que se dan en la consigna: 
+  Periodograma ventaneado y Blackman-Tukey
+* En toda estimación, el valor importante es la varianza. No te referiste a la varianza, ni en la estimación 
+  espectral ni en la estimación del ancho de banda.
+* Al plot del audio de la cucaracha le faltan las etiquetas.
+* En los gráficos de las señales, el eje vertical tiene una etiqueta que no es correcta. En todo caso la amplitud
+  son los valores máximos de la señal. Con poner x(t) ya estaba bien.
+* A la conclusión le falta un poco más de desarrollo. Podés explicar si son coherentes los valores de los anchos 
+  de bandas.
